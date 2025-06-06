@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **frontend**
 
-- 📫 How to reach me **Jsingh@thapar.edu**
+- 📫 How to reach me **Jashanpreetlehra@thapar.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
